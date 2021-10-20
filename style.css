@@ -1,0 +1,14 @@
+
+body{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+.image{
+    display:grid;
+}
+
+form{
+    background-color:rgb(214, 208, 208);
+}
